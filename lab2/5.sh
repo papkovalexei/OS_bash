@@ -13,6 +13,8 @@ awk 'BEGIN {i=0; now_ppid=0; now_art=0.0; count=0.0}{
 	{
 		print "Average_Sleeping_Children_of_ParentID=" now_ppid " is " now_art/count
 		now_ppid=$7
+		now_art=$11
+		count=0.0
 	}
 	else
 	{
