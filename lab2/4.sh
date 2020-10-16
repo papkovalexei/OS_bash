@@ -5,7 +5,7 @@ getPath=`ps -ax | awk '{
 	print path
 }'`
 
-echo "Task 4 info about proc" > answer_4.info
+(rm answer_4.info) 2> /dev/null
 
 for proc in $getPath
 do
