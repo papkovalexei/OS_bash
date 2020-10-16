@@ -1,15 +1,7 @@
 #!/bin/bash
 
-getPath=`ps -ax | awk '{ 
-	path="/proc/" $1 
-	print path
-}'`
-
-for proc in $getPath
+for i in $(ls /proc | grep "[0-9]")
 do
-	get_ppid="$proc""/""status"
-	get_value="$proc""/""sched"
-
 	(awk '{
 		if ($1 == "Pid:")
 		{
@@ -19,7 +11,7 @@ do
 		{
 			printf "Parent_ProcessID = %d : ", $2
 		}
-	}' $get_ppid >> temp4.info) 2> /dev/null
+	}' /proc/$i/status >> temp4.info) 2> /dev/null
 
 	(awk '{
 		if ($1 == "se.sum_exec_runtime")
@@ -31,7 +23,7 @@ do
 			nr_switches=$3
 			print "Average_Running_Time=" sum_exec_runtime/nr_switches
 		}
-	}' $get_value >> temp4.info) 2> /dev/null
+	}' /proc/$i/sched >> temp4.info) 2> /dev/null
 done
 
 sort -n -k 7 temp4.info > answer_4.info
