@@ -21,7 +21,7 @@ do
 		if ($1 == "nr_switches")
 		{
 			nr_switches=$3
-			print "Average_Running_Time=" sum_exec_runtime/nr_switches
+			print "Average_Running_Time = " sum_exec_runtime/nr_switches
 		}
 	}' /proc/$i/sched >> temp4.info) 2> /dev/null
 done
