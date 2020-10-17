@@ -7,7 +7,8 @@ rm buffer_proc*
 for i in $(ls /proc | grep "[0-9]")
 do
 	awk '$1 == "rchar:" {printf "%d ", $2}' /proc/$i/io >> buffer_proc_first.info
-	echo $i >> buffer_proc_first.info
+	cmd=$(ps -eo pid,cmd | awk -v id=$i '$1 == id {print $2}')
+	echo $i $cmd>> buffer_proc_first.info
 done
 
 old_sec=-1
@@ -26,7 +27,7 @@ done
 for i in $(ls /proc | grep "[0-9]")
 do
 	awk '$1 == "rchar:" {printf "%d ", $2}' /proc/$i/io >> buffer_proc_second.info
-	echo $i >> buffer_proc_second.info
+	echo $i  >> buffer_proc_second.info
 done
 
 while read string
@@ -38,12 +39,13 @@ do
 	awk -v p=$pid -v m=$memory '{
 		if ($2 == p)
 		{
-			printf "PID: %d Delta: %d\n", $2, m-$1
+			printf "PID %d :  Delta %d : ", $2, m-$1
+			print $3
 		}
 	}' buffer_proc_first.info  >> buffer_proc_answer.info
 done < buffer_proc_second.info
 
-sort -n -k 4 buffer_proc_answer.info | tail -3
+sort -n -k 5 buffer_proc_answer.info | tail -n 3
 
 rm buffer_proc*
 
