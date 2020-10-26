@@ -13,7 +13,7 @@ done
 
 old_sec=-1
 
-while [ $SECONDS -le 5 ]
+while [ $SECONDS -le 20 ]
 do
 	if [[ "$old_sec" -eq "$SECONDS" ]]
 		then continue
