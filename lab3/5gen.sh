@@ -3,6 +3,7 @@
 while true
 do
 	read str
+
 	echo $str > task5_pipe
 
 	if [[ $str == "QUIT" ]] 
