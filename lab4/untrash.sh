@@ -25,8 +25,8 @@ do
 
 			if [[ $? == "1" ]]
 			then
-			path="~/"$1
-			echo "File will be created in home directory"
+				path="~/"$1
+				echo "File will be created in home directory"
 			fi
 		
 			while true
@@ -35,12 +35,12 @@ do
 				
 				if [[ $? == "0" ]]
 				then
-				echo "Change name: "
-				read new_name
-				path=$(echo $path | awk -F "/" '{for(i=1;i<NF;i++){printf "%s/",$i}}')
-				path=$path""$new_name
+					echo "Change name: "
+					read new_name
+					path=$(echo $path | awk -F "/" '{for(i=1;i<NF;i++){printf "%s/",$i}}')
+					path=$path""$new_name
 				else
-				break;
+					break;
 				fi
 			done
 
