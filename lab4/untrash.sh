@@ -25,7 +25,7 @@ do
 
 			if [[ $? == "1" ]]
 			then
-				path="~/"$1
+				path=~/$1
 				echo "File will be created in home directory"
 			fi
 		
@@ -43,7 +43,8 @@ do
 					break;
 				fi
 			done
-
+			
+			sed -i "/ $file/d" ~/.trash.log
 
 			mv ~/.trash/$file $path
 			break
