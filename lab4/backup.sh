@@ -15,7 +15,7 @@ function newBackup {
 
 last_file=$(ls ~/home/alexei/backup | tail -1)
 
-if [[ $last_file == "" ]]
+if [[ -z $last_file ]]
 then
 	newBackup
 else
@@ -55,17 +55,16 @@ else
 				cp ~/home/alexei/source/$i ~/home/alexei/backup/$last_file/$i
 				echo "Copy: " $i >> buffer1
 			else
-				if [[ $flag == "0" ]]
-				then
-					echo "Update: "$last_file  $(date +"%Y-%m-%d-%M") >> ~/home/alexei/backup-report
-					flag="1"
-				fi
-
 				size1=$(wc -c ~/home/alexei/backup/$last_file/$i | awk '{print $1}')
 				size2=$(wc -c ~/home/alexei/source/$i | awk '{print $1}')
 
 				if [[ $size1 -ne $size2 ]]
 				then
+					if [[ $flag == "0" ]]
+					then
+						echo "Update: "$last_file  $(date +"%Y-%m-%d-%M") >> ~/home/alexei/backup-report
+					fi
+
 					mv ~/home/alexei/backup/$last_file/$i ~/home/alexei/backup/$last_file/$i"."$(date +"%Y-%m-%d-%M")
 					cp ~/home/alexei/source/$i ~/home/alexei/backup/$last_file/$i
 
