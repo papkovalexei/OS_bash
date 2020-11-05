@@ -63,12 +63,13 @@ else
 					if [[ $flag == "0" ]]
 					then
 						echo "Update: "$last_file  $(date +"%Y-%m-%d-%M") >> ~/home/alexei/backup-report
+						flag="1"
 					fi
 
-					mv ~/home/alexei/backup/$last_file/$i ~/home/alexei/backup/$last_file/$i"."$(date +"%Y-%m-%d-%M")
+					mv ~/home/alexei/backup/$last_file/$i ~/home/alexei/backup/$last_file/$i"."$(echo $last_file | awk -F "-" '{print $2"-"$3"-"$4"-"$5}')
 					cp ~/home/alexei/source/$i ~/home/alexei/backup/$last_file/$i
 
-					echo "New: "$i  $i"."$(date +"%Y-%m-%d-%M") >> buffer2
+					echo "New: "$i  $i"."$(echo $last_file | awk -F "-" '{print $2"-"$3"-"$4"-"$5}') >> buffer2
 				fi
 			fi
 		done
