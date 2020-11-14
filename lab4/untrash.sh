@@ -2,6 +2,14 @@
 
 if [[ -n "$1" ]]
 then 
+check=$(cat ~/.trash.log)
+
+if [[ -z "$check" ]]
+then
+	echo "Error"
+	exit 1
+fi
+
 for i in "$(cat ~/.trash.log | awk -v name=$1 '$1 ~ "/*/"name {print $0}')"
 do
 	echo $(echo $i | awk '{print $1}')

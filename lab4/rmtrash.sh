@@ -2,6 +2,15 @@
 
 if [[ -n "$1" ]]
 then
+
+check=$(file $PWD"/""$1" | awk '{print $2}')
+
+if [[ "$check" == "directory" ]]
+then
+	echo "Error that's directory"
+	exit 1
+fi
+
 (find ~/.trash -type d 2> /dev/null > /dev/null) || (mkdir ~/.trash)
 (find $1 -type d 2> /dev/null) || (echo "No file: " $1; exit 1)
 

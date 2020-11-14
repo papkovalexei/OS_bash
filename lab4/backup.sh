@@ -8,6 +8,14 @@ function newBackup {
 
 	for i in $(ls ~/home/alexei/source/)
 	do
+		check=$(file ~/home/alexei/source/$i | awk '{print $2}')
+		
+		if [[ "$check" == "directory" ]]
+		then
+			echo $i " skipped, that's dir"
+			continue
+		fi
+
 		cp ~/home/alexei/source/$i ~/home/alexei/backup/$file/$i
 		echo "Copy: " $i >> ~/home/alexei/backup-report
 	done
