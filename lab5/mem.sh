@@ -8,7 +8,6 @@ array=()
 
 while true
 do
-
 	for (( count=0; count<10; count++ ))
 	do
 		array[$array_index]=$count
