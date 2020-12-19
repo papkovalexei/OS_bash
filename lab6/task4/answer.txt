@@ -1,0 +1,149 @@
+ Фильтр NativeWiFi
+ Устройства Bluetooth (личной сети)
+ Стандартный драйвер USB-концентратора (Майкрософт)
+ Стандартный драйвер SATA AHCI (Майкрософт)
+ Служба телеметрии Intel(R)
+ Служба платформ драйвера режима ядра
+ Служба перечислителя Bluetooth
+ Служба безопасности доверенной среды выполнения Microsoft Windows
+ Системный драйвер проверки сети в составе антивирусной программы Microsoft Defender
+ Системный драйвер NDIS
+ Платформа фильтрации Microsoft Windows
+ Планировщик пакетов QoS
+ Перечислитель виртуальных сетевых адаптеров (Майкрософт)
+ Перечислитель виртуальных дисков (Майкрософт)
+ Перенаправленная подсистема буферизации
+ Отвечающее устройство обнаружения топологии канального уровня
+ Ответчик обнаружения топологии канального уровня
+ Оболочка и модуль мини-перенаправителя SMB
+ Мини-порт сетевого адаптера с отладкой ядра (Майкрософт) (NDIS 6.20)
+ Мини-порт глобальной сети (SSTP)
+ Мини-порт глобальной сети (PPTP)
+ Мини-порт глобальной сети (L2TP)
+ Мини-порт глобальной сети (IKEv2)
+ Мини-перенаправитель SMB 2.0
+ Концентратор SuperSpeed
+ Захват Microsoft NDIS
+ Драйвер шины перенаправителя устройств удаленных рабочих столов
+ Драйвер шины PCI
+ Драйвер фильтра шифрования диска BitLocker
+ Драйвер фильтра скорости ввода-вывода диска
+ Драйвер универсального родительского устройства USB (Microsoft)
+ Драйвер тома
+ Драйвер теневого копирования тома
+ Драйвер сервера Server SMB 2.xxx
+ Драйвер с функцией мини-фильтра в составе антивирусной программы Microsoft Defender
+ Драйвер разделов
+ Драйвер процессора AMD
+ Драйвер протокола TCP/IP
+ Драйвер программной шины
+ Драйвер порта USB радиомодуля Bluetooth
+ Драйвер порта Bluetooth
+ Драйвер подключаемого модуля управления питанием Intel(R)
+ Драйвер поддержки NetIO Legacy TDI
+ Драйвер перечислителя композитной шины
+ Драйвер минипорта Microsoft USB 2.0 расширенного хост-контроллера
+ Драйвер клиента пространства имен DFS
+ Драйвер класса мыши
+ Драйвер класса клавиатуры
+ Драйвер дополнительных функций для Winsock
+ Драйвер для шины UAA для High Definition Audio (Microsoft)
+ Драйвер диспетчера томов
+ Драйвер дискового пространства
+ Драйвер диска
+ Драйвер вынесения решения по оплате
+ Драйвер батареи с ACPI-управлением (Майкрософт)
+ Драйвер UEFI (Майкрософт)
+ Драйвер Realtek RT640 NT
+ Драйвер PPPOE для удаленного доступа
+ Драйвер Microsoft System Management BIOS
+ Драйвер Microsoft ACPI
+ Драйвер IP ARP для удаленного доступа
+ Драйвер i8042-клавиатуры и мыши для порта PS/2
+ Драйвер CD-ROM дисковода
+ Драйвер Bluetooth с низким энергопотреблением
+ Драйвер-фильтр качества обслуживания хранилища
+ Диспетчер фильтров
+ Диспетчер точек подключения
+ Диспетчер динамических томов
+ Виртуализация файла контроля учетных записей
+ Браузер
+ xHCI-совместимый хост-контроллер USB
+ Windows Trusted Execution Environment Class Extension
+ Windows Overlay File System Filter Driver
+ Windows Network Data Usage Monitoring Driver
+ Windows Defender Firewall Authorization Driver
+ Windows Container Isolation
+ Windows Cloud Files Filter Driver
+ Windows Bind Filter Driver
+ WDI Driver Framework
+ Virtual Wireless Bus Driver
+ Virtual WiFi Miniport Service
+ Virtual WiFi Filter Driver
+ Vid
+ USB Host Support Library
+ USB-видеоустройство (WDM)
+ UMBus драйвер перечислителя
+ TPM
+ TCP/IP Registry Compatibility
+ System Guard Runtime Monitor Agent
+ srvnet
+ Simple Peripheral Bus Support Library
+ Serial UART Support Library
+ Realtek Wireless LAN 802.11n PCI-E Network Adapter
+ Realtek Bluetooth Filter Driver
+ ReadyBoost
+ Performance Counters for Windows Driver
+ PEAUTH
+ pdc
+ Null
+ Ntfs
+ NSI Proxy Service Driver
+ Npfs
+ NetBT
+ NetBIOS Interface
+ NDIS Usermode I/O Protocol
+ NDIS Proxy Driver
+ NDIS-драйвер глобальной сети для удаленного доступа
+ NDIS-драйвер TAPI удаленного доступа
+ Named pipe service trigger provider
+ Mup
+ Multimedia Class Scheduler
+ MsQuic
+ msisadrv
+ Msfs
+ Microsoft Windows Management Interface for ACPI
+ Microsoft Monitor Class Function Driver Service
+ Microsoft GPIO Class Extension Driver
+ Microsoft ACPIEx Driver
+ LDDM Graphics Subsystem
+ KSecPkg
+ KSecDD
+ Kernel Streaming Thunks
+ HTTP-служба
+ GPU Energy Driver
+ FileCrypt
+ File Information FS MiniFilter
+ FAT12/16/32 File System Driver
+ Enhanced Storage Filter Driver
+ Console Driver
+ Conexant UAA Function Driver for High Definition Audio Service
+ Common Log (CLFS)
+ CNG
+ CimFS
+ Bluetooth Device (RFCOMM Protocol TDI)
+ Beep
+ BasicRender
+ BasicDisplay
+ Background Activity Moderator Driver
+ ASUS Wireless Radio Control
+ Application Compatibility Cache
+ amdkmdap
+ amdkmdag
+ AMD UART Service
+ AMD PSP Service
+ AMD PCI Root Bus Lower Filter
+ AMD I2C Controller Service
+ AMD GPIO Client Driver
+ AMD Function Driver for HD Audio Service
+ afunix

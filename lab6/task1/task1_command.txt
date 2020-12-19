@@ -1,0 +1,7 @@
+wmic logicaldisk get Size,FreeSpace > disk.txt
+ver > version.txt
+mkdir TEST
+xcopy "C:\lab6\task1\*.*" "C:\lab6\task1\TEST\*.*"
+cd TEST
+dir /s /b | find /c ":\" > count.txt
+dir /o:-d /b | gawk "FNR > 1 {print $0}" | "cmd /c del /Q "

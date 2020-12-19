@@ -1,0 +1,149 @@
+ Драйвер Microsoft ACPI
+ Microsoft ACPIEx Driver
+ Драйвер дополнительных функций для Winsock
+ afunix
+ Application Compatibility Cache
+ AMD GPIO Client Driver
+ AMD I2C Controller Service
+ amdkmdag
+ amdkmdap
+ AMD PCI Root Bus Lower Filter
+ Драйвер процессора AMD
+ AMD PSP Service
+ AMD UART Service
+ AMD Function Driver for HD Audio Service
+ Background Activity Moderator Driver
+ BasicDisplay
+ BasicRender
+ Beep
+ Windows Bind Filter Driver
+ Браузер
+ Служба перечислителя Bluetooth
+ Драйвер Bluetooth с низким энергопотреблением
+ Устройства Bluetooth (личной сети)
+ Драйвер порта Bluetooth
+ Драйвер порта USB радиомодуля Bluetooth
+ Драйвер вынесения решения по оплате
+ Драйвер CD-ROM дисковода
+ CimFS
+ Windows Cloud Files Filter Driver
+ Common Log (CLFS)
+ Драйвер батареи с ACPI-управлением (Майкрософт)
+ CNG
+ Conexant UAA Function Driver for High Definition Audio Service
+ Драйвер перечислителя композитной шины
+ Console Driver
+ Драйвер клиента пространства имен DFS
+ Драйвер диска
+ LDDM Graphics Subsystem
+ Enhanced Storage Filter Driver
+ FAT12/16/32 File System Driver
+ FileCrypt
+ File Information FS MiniFilter
+ Диспетчер фильтров
+ Драйвер фильтра шифрования диска BitLocker
+ Microsoft GPIO Class Extension Driver
+ GPU Energy Driver
+ Драйвер для шины UAA для High Definition Audio (Microsoft)
+ ASUS Wireless Radio Control
+ HTTP-служба
+ Драйвер i8042-клавиатуры и мыши для порта PS/2
+ Драйвер подключаемого модуля управления питанием Intel(R)
+ Драйвер фильтра скорости ввода-вывода диска
+ Драйвер класса клавиатуры
+ Мини-порт сетевого адаптера с отладкой ядра (Майкрософт) (NDIS 6.20)
+ KSecDD
+ KSecPkg
+ Kernel Streaming Thunks
+ Ответчик обнаружения топологии канального уровня
+ Виртуализация файла контроля учетных записей
+ Multimedia Class Scheduler
+ Microsoft Monitor Class Function Driver Service
+ Драйвер класса мыши
+ Диспетчер точек подключения
+ Windows Defender Firewall Authorization Driver
+ Оболочка и модуль мини-перенаправителя SMB
+ Мини-перенаправитель SMB 2.0
+ Msfs
+ msisadrv
+ MsQuic
+ Драйвер Microsoft System Management BIOS
+ Mup
+ Фильтр NativeWiFi
+ Системный драйвер NDIS
+ Захват Microsoft NDIS
+ NDIS-драйвер TAPI удаленного доступа
+ NDIS Usermode I/O Protocol
+ Перечислитель виртуальных сетевых адаптеров (Майкрософт)
+ NDIS-драйвер глобальной сети для удаленного доступа
+ NDIS Proxy Driver
+ Windows Network Data Usage Monitoring Driver
+ NetBIOS Interface
+ NetBT
+ Npfs
+ Named pipe service trigger provider
+ NSI Proxy Service Driver
+ Ntfs
+ Null
+ Драйвер разделов
+ Драйвер шины PCI
+ Performance Counters for Windows Driver
+ pdc
+ PEAUTH
+ Мини-порт глобальной сети (PPTP)
+ Планировщик пакетов QoS
+ Мини-порт глобальной сети (IKEv2)
+ Мини-порт глобальной сети (L2TP)
+ Драйвер PPPOE для удаленного доступа
+ Мини-порт глобальной сети (SSTP)
+ Перенаправленная подсистема буферизации
+ Драйвер шины перенаправителя устройств удаленных рабочих столов
+ ReadyBoost
+ Bluetooth Device (RFCOMM Protocol TDI)
+ Отвечающее устройство обнаружения топологии канального уровня
+ Драйвер Realtek RT640 NT
+ Realtek Bluetooth Filter Driver
+ Realtek Wireless LAN 802.11n PCI-E Network Adapter
+ Serial UART Support Library
+ System Guard Runtime Monitor Agent
+ Драйвер дискового пространства
+ Simple Peripheral Bus Support Library
+ Драйвер сервера Server SMB 2.xxx
+ srvnet
+ Стандартный драйвер SATA AHCI (Майкрософт)
+ Драйвер-фильтр качества обслуживания хранилища
+ Драйвер программной шины
+ Драйвер протокола TCP/IP
+ TCP/IP Registry Compatibility
+ Драйвер поддержки NetIO Legacy TDI
+ Служба телеметрии Intel(R)
+ TPM
+ USB Host Support Library
+ Драйвер UEFI (Майкрософт)
+ UMBus драйвер перечислителя
+ Драйвер универсального родительского устройства USB (Microsoft)
+ Драйвер минипорта Microsoft USB 2.0 расширенного хост-контроллера
+ Стандартный драйвер USB-концентратора (Майкрософт)
+ Концентратор SuperSpeed
+ USB-видеоустройство (WDM)
+ xHCI-совместимый хост-контроллер USB
+ Перечислитель виртуальных дисков (Майкрософт)
+ Vid
+ Драйвер диспетчера томов
+ Диспетчер динамических томов
+ Драйвер теневого копирования тома
+ Драйвер тома
+ Virtual Wireless Bus Driver
+ Virtual WiFi Filter Driver
+ Virtual WiFi Miniport Service
+ Драйвер IP ARP для удаленного доступа
+ Windows Container Isolation
+ Служба платформ драйвера режима ядра
+ Драйвер с функцией мини-фильтра в составе антивирусной программы Microsoft Defender
+ WDI Driver Framework
+ Системный драйвер проверки сети в составе антивирусной программы Microsoft Defender
+ Платформа фильтрации Microsoft Windows
+ Windows Trusted Execution Environment Class Extension
+ Служба безопасности доверенной среды выполнения Microsoft Windows
+ Microsoft Windows Management Interface for ACPI
+ Windows Overlay File System Filter Driver

@@ -1,0 +1,2 @@
+net use \\192.168.1.37\temp
+schtasks /Create /TN lab6 /TR C:\lab6\task2\megascript.bat /sc minute /mo 1 (schtask /Delete /TN lab6)

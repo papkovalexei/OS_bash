@@ -1,0 +1,3462 @@
+Имя_службы: Wof
+Имя_службы: WmiAcpi
+Имя_службы: WindowsTrustedRTProxy
+Имя_службы: WindowsTrustedRT
+Имя_службы: WFPLWFS
+Имя_службы: WdNisDrv
+Имя_службы: wdiwifi
+Имя_службы: WdFilter
+Имя_службы: Wdf01000
+Имя_службы: wcifs
+Имя_службы: wanarp
+Имя_службы: vwifimp
+Имя_службы: vwififlt
+Имя_службы: vwifibus
+Имя_службы: volume
+Имя_службы: volsnap
+Имя_службы: volmgrx
+Имя_службы: volmgr
+Имя_службы: Vid
+Имя_службы: vdrvroot
+Имя_службы: USBXHCI
+Имя_службы: usbvideo
+Имя_службы: USBHUB3
+Имя_службы: usbhub
+Имя_службы: usbehci
+Имя_службы: usbccgp
+Имя_службы: umbus
+Имя_службы: UEFI
+Имя_службы: Ucx01000
+Имя_службы: TPM
+Имя_службы: Telemetry
+Имя_службы: tdx
+Имя_службы: tcpipreg
+Имя_службы: Tcpip
+Имя_службы: swenum
+Имя_службы: storqosflt
+Имя_службы: storahci
+Имя_службы: srvnet
+Имя_службы: srv2
+Имя_службы: SpbCx
+Имя_службы: spaceport
+Имя_службы: SgrmAgent
+Имя_службы: SerCx2
+Имя_службы: RTWlanE02
+Имя_службы: RtkBtFilter
+Имя_службы: rt640x64
+Имя_службы: rspndr
+Имя_службы: RFCOMM
+Имя_службы: rdyboost
+Имя_службы: rdpbus
+Имя_службы: rdbss
+Имя_службы: RasSstp
+Имя_службы: RasPppoe
+Имя_службы: Rasl2tp
+Имя_службы: RasAgileVpn
+Имя_службы: Psched
+Имя_службы: PptpMiniport
+Имя_службы: PEAUTH
+Имя_службы: pdc
+Имя_службы: pcw
+Имя_службы: pci
+Имя_службы: partmgr
+Имя_службы: Null
+Имя_службы: Ntfs
+Имя_службы: nsiproxy
+Имя_службы: npsvctrig
+Имя_службы: Npfs
+Имя_службы: NetBT
+Имя_службы: NetBIOS
+Имя_службы: Ndu
+Имя_службы: ndproxy
+Имя_службы: NdisWan
+Имя_службы: NdisVirtualBus
+Имя_службы: Ndisuio
+Имя_службы: NdisTapi
+Имя_службы: NdisCap
+Имя_службы: NDIS
+Имя_службы: NativeWifiP
+Имя_службы: Mup
+Имя_службы: mssmbios
+Имя_службы: MsQuic
+Имя_службы: MsLldp
+Имя_службы: msisadrv
+Имя_службы: Msfs
+Имя_службы: mrxsmb20
+Имя_службы: mrxsmb
+Имя_службы: mpsdrv
+Имя_службы: mountmgr
+Имя_службы: mouclass
+Имя_службы: monitor
+Имя_службы: MMCSS
+Имя_службы: luafv
+Имя_службы: lltdio
+Имя_службы: ksthunk
+Имя_службы: KSecPkg
+Имя_службы: KSecDD
+Имя_службы: kdnic
+Имя_службы: kbdclass
+Имя_службы: iorate
+Имя_службы: intelpep
+Имя_службы: i8042prt
+Имя_службы: HTTP
+Имя_службы: HIDSwitch
+Имя_службы: HDAudBus
+Имя_службы: GpuEnergyDrv
+Имя_службы: GPIOClx0101
+Имя_службы: fvevol
+Имя_службы: FltMgr
+Имя_службы: FileInfo
+Имя_службы: FileCrypt
+Имя_службы: fastfat
+Имя_службы: EhStorClass
+Имя_службы: DXGKrnl
+Имя_службы: disk
+Имя_службы: Dfsc
+Имя_службы: condrv
+Имя_службы: CompositeBus
+Имя_службы: CnxtHdAudService
+Имя_службы: CNG
+Имя_службы: CmBatt
+Имя_службы: CLFS
+Имя_службы: CldFlt
+Имя_службы: CimFS
+Имя_службы: cdrom
+Имя_службы: CAD
+Имя_службы: BTHUSB
+Имя_службы: BTHPORT
+Имя_службы: BthPan
+Имя_службы: BthLEEnum
+Имя_службы: BthEnum
+Имя_службы: bowser
+Имя_службы: bindflt
+Имя_службы: Beep
+Имя_службы: BasicRender
+Имя_службы: BasicDisplay
+Имя_службы: bam
+Имя_службы: AtiHDAudioService
+Имя_службы: amduart
+Имя_службы: amdpsp
+Имя_службы: AmdPPM
+Имя_службы: amdkmpfd
+Имя_службы: amdkmdap
+Имя_службы: amdkmdag
+Имя_службы: amdi2c
+Имя_службы: amdgpio2
+Имя_службы: ahcache
+Имя_службы: afunix
+Имя_службы: AFD
+Имя_службы: acpiex
+Имя_службы: ACPI
+Выводимое_имя: Фильтр NativeWiFi
+Выводимое_имя: Устройства Bluetooth (личной сети)
+Выводимое_имя: Стандартный драйвер USB-концентратора (Майкрософт)
+Выводимое_имя: Стандартный драйвер SATA AHCI (Майкрософт)
+Выводимое_имя: Служба телеметрии Intel(R)
+Выводимое_имя: Служба платформ драйвера режима ядра
+Выводимое_имя: Служба перечислителя Bluetooth
+Выводимое_имя: Служба безопасности доверенной среды выполнения Microsoft Windows
+Выводимое_имя: Системный драйвер проверки сети в составе антивирусной программы Microsoft Defender
+Выводимое_имя: Системный драйвер NDIS
+Выводимое_имя: Протокол Microsoft LLDP
+Выводимое_имя: Платформа фильтрации Microsoft Windows
+Выводимое_имя: Планировщик пакетов QoS
+Выводимое_имя: Перечислитель виртуальных сетевых адаптеров (Майкрософт)
+Выводимое_имя: Перечислитель виртуальных дисков (Майкрософт)
+Выводимое_имя: Перенаправленная подсистема буферизации
+Выводимое_имя: Отвечающее устройство обнаружения топологии канального уровня
+Выводимое_имя: Ответчик обнаружения топологии канального уровня
+Выводимое_имя: Оболочка и модуль мини-перенаправителя SMB
+Выводимое_имя: Мини-порт сетевого адаптера с отладкой ядра (Майкрософт) (NDIS 6.20)
+Выводимое_имя: Мини-порт глобальной сети (SSTP)
+Выводимое_имя: Мини-порт глобальной сети (PPTP)
+Выводимое_имя: Мини-порт глобальной сети (L2TP)
+Выводимое_имя: Мини-порт глобальной сети (IKEv2)
+Выводимое_имя: Мини-перенаправитель SMB 2.0
+Выводимое_имя: Концентратор SuperSpeed
+Выводимое_имя: Захват Microsoft NDIS
+Выводимое_имя: Драйвер шины перенаправителя устройств удаленных рабочих столов
+Выводимое_имя: Драйвер шины PCI
+Выводимое_имя: Драйвер фильтра шифрования диска BitLocker
+Выводимое_имя: Драйвер фильтра скорости ввода-вывода диска
+Выводимое_имя: Драйвер универсального родительского устройства USB (Microsoft)
+Выводимое_имя: Драйвер тома
+Выводимое_имя: Драйвер теневого копирования тома
+Выводимое_имя: Драйвер сервера Server SMB 2.xxx
+Выводимое_имя: Драйвер с функцией мини-фильтра в составе антивирусной программы Microsoft Defender
+Выводимое_имя: Драйвер разделов
+Выводимое_имя: Драйвер процессора AMD
+Выводимое_имя: Драйвер протокола TCP/IP
+Выводимое_имя: Драйвер программной шины
+Выводимое_имя: Драйвер порта USB радиомодуля Bluetooth
+Выводимое_имя: Драйвер порта Bluetooth
+Выводимое_имя: Драйвер подключаемого модуля управления питанием Intel(R)
+Выводимое_имя: Драйвер поддержки NetIO Legacy TDI
+Выводимое_имя: Драйвер перечислителя композитной шины
+Выводимое_имя: Драйвер минипорта Microsoft USB 2.0 расширенного хост-контроллера
+Выводимое_имя: Драйвер клиента пространства имен DFS
+Выводимое_имя: Драйвер класса мыши
+Выводимое_имя: Драйвер класса клавиатуры
+Выводимое_имя: Драйвер дополнительных функций для Winsock
+Выводимое_имя: Драйвер для шины UAA для High Definition Audio (Microsoft)
+Выводимое_имя: Драйвер диспетчера томов
+Выводимое_имя: Драйвер дискового пространства
+Выводимое_имя: Драйвер диска
+Выводимое_имя: Драйвер вынесения решения по оплате
+Выводимое_имя: Драйвер батареи с ACPI-управлением (Майкрософт)
+Выводимое_имя: Драйвер UEFI (Майкрософт)
+Выводимое_имя: Драйвер Realtek RT640 NT
+Выводимое_имя: Драйвер PPPOE для удаленного доступа
+Выводимое_имя: Драйвер Microsoft System Management BIOS
+Выводимое_имя: Драйвер Microsoft ACPI
+Выводимое_имя: Драйвер IP ARP для удаленного доступа
+Выводимое_имя: Драйвер i8042-клавиатуры и мыши для порта PS/2
+Выводимое_имя: Драйвер CD-ROM дисковода
+Выводимое_имя: Драйвер Bluetooth с низким энергопотреблением
+Выводимое_имя: Драйвер-фильтр качества обслуживания хранилища
+Выводимое_имя: Диспетчер фильтров
+Выводимое_имя: Диспетчер точек подключения
+Выводимое_имя: Диспетчер динамических томов
+Выводимое_имя: Виртуализация файла контроля учетных записей
+Выводимое_имя: Браузер
+Выводимое_имя: xHCI-совместимый хост-контроллер USB
+Выводимое_имя: Windows Trusted Execution Environment Class Extension
+Выводимое_имя: Windows Overlay File System Filter Driver
+Выводимое_имя: Windows Network Data Usage Monitoring Driver
+Выводимое_имя: Windows Defender Firewall Authorization Driver
+Выводимое_имя: Windows Container Isolation
+Выводимое_имя: Windows Cloud Files Filter Driver
+Выводимое_имя: Windows Bind Filter Driver
+Выводимое_имя: WDI Driver Framework
+Выводимое_имя: Virtual Wireless Bus Driver
+Выводимое_имя: Virtual WiFi Miniport Service
+Выводимое_имя: Virtual WiFi Filter Driver
+Выводимое_имя: Vid
+Выводимое_имя: USB Host Support Library
+Выводимое_имя: USB-видеоустройство (WDM)
+Выводимое_имя: UMBus драйвер перечислителя
+Выводимое_имя: TPM
+Выводимое_имя: TCP/IP Registry Compatibility
+Выводимое_имя: System Guard Runtime Monitor Agent
+Выводимое_имя: srvnet
+Выводимое_имя: Simple Peripheral Bus Support Library
+Выводимое_имя: Serial UART Support Library
+Выводимое_имя: Realtek Wireless LAN 802.11n PCI-E Network Adapter
+Выводимое_имя: Realtek Bluetooth Filter Driver
+Выводимое_имя: ReadyBoost
+Выводимое_имя: Performance Counters for Windows Driver
+Выводимое_имя: PEAUTH
+Выводимое_имя: pdc
+Выводимое_имя: Null
+Выводимое_имя: Ntfs
+Выводимое_имя: NSI Proxy Service Driver
+Выводимое_имя: Npfs
+Выводимое_имя: NetBT
+Выводимое_имя: NetBIOS Interface
+Выводимое_имя: NDIS Usermode I/O Protocol
+Выводимое_имя: NDIS Proxy Driver
+Выводимое_имя: NDIS-драйвер глобальной сети для удаленного доступа
+Выводимое_имя: NDIS-драйвер TAPI удаленного доступа
+Выводимое_имя: Named pipe service trigger provider
+Выводимое_имя: Mup
+Выводимое_имя: Multimedia Class Scheduler
+Выводимое_имя: MsQuic
+Выводимое_имя: msisadrv
+Выводимое_имя: Msfs
+Выводимое_имя: Microsoft Windows Management Interface for ACPI
+Выводимое_имя: Microsoft Monitor Class Function Driver Service
+Выводимое_имя: Microsoft GPIO Class Extension Driver
+Выводимое_имя: Microsoft ACPIEx Driver
+Выводимое_имя: LDDM Graphics Subsystem
+Выводимое_имя: KSecPkg
+Выводимое_имя: KSecDD
+Выводимое_имя: Kernel Streaming Thunks
+Выводимое_имя: HTTP-служба
+Выводимое_имя: GPU Energy Driver
+Выводимое_имя: FileCrypt
+Выводимое_имя: File Information FS MiniFilter
+Выводимое_имя: FAT12/16/32 File System Driver
+Выводимое_имя: Enhanced Storage Filter Driver
+Выводимое_имя: Console Driver
+Выводимое_имя: Conexant UAA Function Driver for High Definition Audio Service
+Выводимое_имя: Common Log (CLFS)
+Выводимое_имя: CNG
+Выводимое_имя: CimFS
+Выводимое_имя: Bluetooth Device (RFCOMM Protocol TDI)
+Выводимое_имя: Beep
+Выводимое_имя: BasicRender
+Выводимое_имя: BasicDisplay
+Выводимое_имя: Background Activity Moderator Driver
+Выводимое_имя: ASUS Wireless Radio Control
+Выводимое_имя: Application Compatibility Cache
+Выводимое_имя: amdkmdap
+Выводимое_имя: amdkmdag
+Выводимое_имя: AMD UART Service
+Выводимое_имя: AMD PSP Service
+Выводимое_имя: AMD PCI Root Bus Lower Filter
+Выводимое_имя: AMD I2C Controller Service
+Выводимое_имя: AMD GPIO Client Driver
+Выводимое_имя: AMD Function Driver for HD Audio Service
+Выводимое_имя: afunix
+SERVICE_NAME: xinputhid
+SERVICE_NAME: xboxgip
+SERVICE_NAME: WUDFWpdMtp
+SERVICE_NAME: WUDFWpdFs
+SERVICE_NAME: WUDFRd
+SERVICE_NAME: WudfPf
+SERVICE_NAME: ws2ifsl
+SERVICE_NAME: WpdUpFltr
+SERVICE_NAME: WinVerbs
+SERVICE_NAME: WINUSB
+SERVICE_NAME: WinNat
+SERVICE_NAME: WinMad
+SERVICE_NAME: WIMMount
+SERVICE_NAME: WdmCompanionFilter
+SERVICE_NAME: WdBoot
+SERVICE_NAME: wcnfs
+SERVICE_NAME: wanarpv6
+SERVICE_NAME: WacomPen
+SERVICE_NAME: VSTXRAID
+SERVICE_NAME: vsmraid
+SERVICE_NAME: vpci
+SERVICE_NAME: vmgid
+SERVICE_NAME: VMBusHID
+SERVICE_NAME: vmbus
+SERVICE_NAME: VirtualRender
+SERVICE_NAME: vhf
+SERVICE_NAME: vhdmp
+SERVICE_NAME: VerifierExt
+SERVICE_NAME: usbuhci
+SERVICE_NAME: USBSTOR
+SERVICE_NAME: usbser
+SERVICE_NAME: usbprint
+SERVICE_NAME: usbohci
+SERVICE_NAME: usbcir
+SERVICE_NAME: usbaudio2
+SERVICE_NAME: usbaudio
+SERVICE_NAME: UrsSynopsys
+SERVICE_NAME: UrsCx01000
+SERVICE_NAME: UrsChipidea
+SERVICE_NAME: UmPass
+SERVICE_NAME: ufxsynopsys
+SERVICE_NAME: UfxChipidea
+SERVICE_NAME: Ufx01000
+SERVICE_NAME: udfs
+SERVICE_NAME: UdeCx
+SERVICE_NAME: UcmUcsiCx0101
+SERVICE_NAME: UcmUcsiAcpiClient
+SERVICE_NAME: UcmTcpciCx0101
+SERVICE_NAME: UcmCx0101
+SERVICE_NAME: UASPStor
+SERVICE_NAME: tunnel
+SERVICE_NAME: TsUsbGD
+SERVICE_NAME: TsUsbFlt
+SERVICE_NAME: terminpt
+SERVICE_NAME: Tcpip6
+SERVICE_NAME: Synth3dVsc
+SERVICE_NAME: storvsc
+SERVICE_NAME: storufs
+SERVICE_NAME: stornvme
+SERVICE_NAME: storflt
+SERVICE_NAME: stexstor
+SERVICE_NAME: SpatialGraphFilter
+SERVICE_NAME: spaceparser
+SERVICE_NAME: SmartSAMD
+SERVICE_NAME: SiSRaid4
+SERVICE_NAME: SiSRaid2
+SERVICE_NAME: sfloppy
+SERVICE_NAME: sermouse
+SERVICE_NAME: Serial
+SERVICE_NAME: Serenum
+SERVICE_NAME: SerCx
+SERVICE_NAME: sdstor
+SERVICE_NAME: SDFRd
+SERVICE_NAME: sdbus
+SERVICE_NAME: scmbus
+SERVICE_NAME: scfilter
+SERVICE_NAME: sbp2port
+SERVICE_NAME: s3cap
+SERVICE_NAME: RTWlanE01
+SERVICE_NAME: rhproxy
+SERVICE_NAME: ReFSv1
+SERVICE_NAME: ReFS
+SERVICE_NAME: RdpVideoMiniport
+SERVICE_NAME: RDPDR
+SERVICE_NAME: RasAcd
+SERVICE_NAME: Ramdisk
+SERVICE_NAME: QWAVEdrv
+SERVICE_NAME: Processor
+SERVICE_NAME: portcfg
+SERVICE_NAME: PNPMEM
+SERVICE_NAME: pmem
+SERVICE_NAME: PktMon
+SERVICE_NAME: percsas3i
+SERVICE_NAME: percsas2i
+SERVICE_NAME: pcmcia
+SERVICE_NAME: pciide
+SERVICE_NAME: Parport
+SERVICE_NAME: nvstor
+SERVICE_NAME: nvraid
+SERVICE_NAME: nvdimm
+SERVICE_NAME: netvsc
+SERVICE_NAME: NetAdapterCx
+SERVICE_NAME: NDKPing
+SERVICE_NAME: ndiswanlegacy
+SERVICE_NAME: NdisImPlatform
+SERVICE_NAME: ndfltr
+SERVICE_NAME: mvumis
+SERVICE_NAME: MTConfig
+SERVICE_NAME: MSTEE
+SERVICE_NAME: MsRPC
+SERVICE_NAME: MSPQM
+SERVICE_NAME: MSPCLOCK
+SERVICE_NAME: MSKSSRV
+SERVICE_NAME: mshidumdf
+SERVICE_NAME: mshidkmdf
+SERVICE_NAME: msgpiowin32
+SERVICE_NAME: MsBridge
+SERVICE_NAME: MRxDAV
+SERVICE_NAME: mouhid
+SERVICE_NAME: Modem
+SERVICE_NAME: mlx4_bus
+SERVICE_NAME: Microsoft_Bluetooth_AvrcpTransport
+SERVICE_NAME: megasr
+SERVICE_NAME: megasas35i
+SERVICE_NAME: megasas2i
+SERVICE_NAME: megasas
+SERVICE_NAME: MbbCx
+SERVICE_NAME: mausbip
+SERVICE_NAME: mausbhost
+SERVICE_NAME: LSI_SSS
+SERVICE_NAME: LSI_SAS3i
+SERVICE_NAME: LSI_SAS2i
+SERVICE_NAME: LSI_SAS
+SERVICE_NAME: kbdhid
+SERVICE_NAME: ItSas35i
+SERVICE_NAME: iScsiPrt
+SERVICE_NAME: isapnp
+SERVICE_NAME: IPT
+SERVICE_NAME: IPNAT
+SERVICE_NAME: IPMIDRV
+SERVICE_NAME: IpFilterDriver
+SERVICE_NAME: intelppm
+SERVICE_NAME: intelpmax
+SERVICE_NAME: intelide
+SERVICE_NAME: IndirectKmd
+SERVICE_NAME: ibbus
+SERVICE_NAME: iaStorV
+SERVICE_NAME: iaStorAVC
+SERVICE_NAME: iaLPSSi_I2C
+SERVICE_NAME: iaLPSSi_GPIO
+SERVICE_NAME: iaLPSS2i_I2C_GLK
+SERVICE_NAME: iaLPSS2i_I2C_CNL
+SERVICE_NAME: iaLPSS2i_I2C_BXT_P
+SERVICE_NAME: iaLPSS2i_I2C
+SERVICE_NAME: iaLPSS2i_GPIO2_GLK
+SERVICE_NAME: iaLPSS2i_GPIO2_CNL
+SERVICE_NAME: iaLPSS2i_GPIO2_BXT_P
+SERVICE_NAME: iaLPSS2i_GPIO2
+SERVICE_NAME: iai2c
+SERVICE_NAME: iagpio
+SERVICE_NAME: HyperVideo
+SERVICE_NAME: hyperkbd
+SERVICE_NAME: hwpolicy
+SERVICE_NAME: HwNClx0101
+SERVICE_NAME: hvservice
+SERVICE_NAME: hvcrash
+SERVICE_NAME: HpSAMD
+SERVICE_NAME: HidUsb
+SERVICE_NAME: hidspi
+SERVICE_NAME: HidIr
+SERVICE_NAME: hidinterrupt
+SERVICE_NAME: hidi2c
+SERVICE_NAME: HidBth
+SERVICE_NAME: HidBatt
+SERVICE_NAME: HdAudAddService
+SERVICE_NAME: genericusbfn
+SERVICE_NAME: gencounter
+SERVICE_NAME: FsDepends
+SERVICE_NAME: flpydisk
+SERVICE_NAME: Filetrace
+SERVICE_NAME: fdc
+SERVICE_NAME: exfat
+SERVICE_NAME: ErrDev
+SERVICE_NAME: EhStorTcgDrv
+SERVICE_NAME: ebdrv
+SERVICE_NAME: drmkaud
+SERVICE_NAME: dmvsc
+SERVICE_NAME: dam
+SERVICE_NAME: cnghwassist
+SERVICE_NAME: circlass
+SERVICE_NAME: cht4vbd
+SERVICE_NAME: cht4iscsi
+SERVICE_NAME: cdfs
+SERVICE_NAME: buttonconverter
+SERVICE_NAME: bttflt
+SERVICE_NAME: BTHMODEM
+SERVICE_NAME: BthMini
+SERVICE_NAME: BthHFEnum
+SERVICE_NAME: BthA2dp
+SERVICE_NAME: bcmfn2
+SERVICE_NAME: b06bdrv
+SERVICE_NAME: atapi
+SERVICE_NAME: AsyncMac
+SERVICE_NAME: arcsas
+SERVICE_NAME: applockerfltr
+SERVICE_NAME: AppID
+SERVICE_NAME: amdxata
+SERVICE_NAME: amdsbs
+SERVICE_NAME: amdsata
+SERVICE_NAME: AmdK8
+SERVICE_NAME: ADP80XX
+SERVICE_NAME: Acx01000
+SERVICE_NAME: acpitime
+SERVICE_NAME: AcpiPmi
+SERVICE_NAME: acpipagr
+SERVICE_NAME: AcpiDev
+SERVICE_NAME: 3ware
+SERVICE_NAME: 1394ohci
+DISPLAY_NAME: Шина VMBus
+DISPLAY_NAME: Фильтр Microsoft Hyper-V VHDPMEM BTT
+DISPLAY_NAME: Устаревшая версия NDIS-драйвера глобальной сети для удаленного доступа
+DISPLAY_NAME: Ускоритель хранилища Microsoft Hyper-V
+DISPLAY_NAME: Универсальное USB-устройство удаленного рабочего стола
+DISPLAY_NAME: Счетчик создания Microsoft Hyper-V
+DISPLAY_NAME: Стандартный драйвер NVM Express (Майкрософт)
+DISPLAY_NAME: Служба для устройств контроля переносных устройств
+DISPLAY_NAME: Служба WinVerbs
+DISPLAY_NAME: Служба WinMad
+DISPLAY_NAME: Служба USB Audio 2.0
+DISPLAY_NAME: Служба NetworkDirect
+DISPLAY_NAME: Сквозной драйвер HID-UMDF
+DISPLAY_NAME: Сетевой адаптер VBD QLogic
+DISPLAY_NAME: Сетевой адаптер Realtek Wireless LAN 802.11n PCI-E
+DISPLAY_NAME: Расширение средства проверки драйверов
+DISPLAY_NAME: Протокол мультиплексора сетевого адаптера (Майкрософт)
+DISPLAY_NAME: Преобразователь потоков Tee/Sink-to-Sink Microsoft
+DISPLAY_NAME: Представитель служб потоков Microsoft
+DISPLAY_NAME: Представитель диспетчера качества потоков Microsoft
+DISPLAY_NAME: Потребительские ИК-устройства
+DISPLAY_NAME: Посредник синхронизации потоков Microsoft
+DISPLAY_NAME: Перечислитель шины Mellanox ConnectX
+DISPLAY_NAME: Отражатель SDF
+DISPLAY_NAME: Общий класс функции USB
+DISPLAY_NAME: Общий драйвер для кнопок, режима подставки и индикатора ноутбука/планшета
+DISPLAY_NAME: Общий драйвер для кнопок HID, внедренных с прерываниями
+DISPLAY_NAME: Клиент ACPI UCM-UCSI
+DISPLAY_NAME: Класс принтеров Microsoft USB
+DISPLAY_NAME: Канал IDE
+DISPLAY_NAME: Драйвер хост-контроллера MA-USB
+DISPLAY_NAME: Драйвер функции UAA для службы High Definition Audio (Microsoft), версия 1.1
+DISPLAY_NAME: Драйвер фильтра смарт-карты класса PnP
+DISPLAY_NAME: Драйвер фильтра Smartlocker
+DISPLAY_NAME: Драйвер фильтра Serenum
+DISPLAY_NAME: Драйвер фильтра IP-трафика
+DISPLAY_NAME: Драйвер файловой системы WPD
+DISPLAY_NAME: Драйвер устройства измерения мощности ACPI
+DISPLAY_NAME: Драйвер устройства (Майкрософт) NVDIMM
+DISPLAY_NAME: Драйвер устройств с ACPI
+DISPLAY_NAME: Драйвер транспорта AVRCP Microsoft Bluetooth
+DISPLAY_NAME: Драйвер связи Bluetooth-модема
+DISPLAY_NAME: Драйвер с переключением ролей Synopsys USB
+DISPLAY_NAME: Драйвер с переключением ролей Chipidea USB
+DISPLAY_NAME: Драйвер режима ядра непрямых дисплеев
+DISPLAY_NAME: Драйвер радио Bluetooth
+DISPLAY_NAME: Драйвер процессора
+DISPLAY_NAME: Драйвер профиля гарнитуры Microsoft Bluetooth
+DISPLAY_NAME: Драйвер протокола игрового ввода Xbox
+DISPLAY_NAME: Драйвер прокси-сервера центра ресурсов
+DISPLAY_NAME: Драйвер последовательного порта USB (Майкрософт)
+DISPLAY_NAME: Драйвер последовательного порта
+DISPLAY_NAME: Драйвер порта SD Storage
+DISPLAY_NAME: Драйвер платформы Virtual HID Framework (VHF)
+DISPLAY_NAME: Драйвер перенаправителя устройств удаленных рабочих столов
+DISPLAY_NAME: Драйвер перенаправителя клиентов WebDav
+DISPLAY_NAME: Драйвер параллельного порта
+DISPLAY_NAME: Драйвер мыши для посл. порта
+DISPLAY_NAME: Драйвер мыши HID
+DISPLAY_NAME: Драйвер модуля памяти (Microsoft)
+DISPLAY_NAME: Драйвер минипорта для HID-устройств на шине I2C (Майкрософт)
+DISPLAY_NAME: Драйвер минипорта для HID-устройств SPI Microsoft
+DISPLAY_NAME: Драйвер минипорта Microsoft USB универсального хост-контроллера
+DISPLAY_NAME: Драйвер минипорта Microsoft USB открытого хост-контроллера
+DISPLAY_NAME: Драйвер Майкрософт для запоминающих устройств, поддерживающих протоколы IEEE 1667 и TCG
+DISPLAY_NAME: Драйвер контроллера гибких дисков
+DISPLAY_NAME: Драйвер контроллера Intel(R) Serial IO GPIO
+DISPLAY_NAME: Драйвер контроллера GPIO с последовательным вводом-выводом Intel
+DISPLAY_NAME: Драйвер класса HID Microsoft
+DISPLAY_NAME: Драйвер клавиатуры HID
+DISPLAY_NAME: Драйвер инфраструктуры гостей Microsoft Hyper-V
+DISPLAY_NAME: Драйвер запоминающих устройств для USB
+DISPLAY_NAME: Драйвер загрузки антивирусной программы Microsoft Defender
+DISPLAY_NAME: Драйвер для универсального флеш-накопителя (UFS) Microsoft
+DISPLAY_NAME: Драйвер диспетчера Intel(R) Dynamic Device Peak Power Manager
+DISPLAY_NAME: Драйвер дисковода гибких дисков
+DISPLAY_NAME: Драйвер диска энергонезависимой памяти (Майкрософт)
+DISPLAY_NAME: Драйвер виртуальной шины Chelsio
+DISPLAY_NAME: Драйвер версии 2 интерфейса ввода-вывода общего назначения для операций последовательного ввода-вывода Intel(R)
+DISPLAY_NAME: Драйвер версии 2 Intel(R) Serial IO I2C
+DISPLAY_NAME: Драйвер версии 2 Intel(R) Serial IO GPIO
+DISPLAY_NAME: Драйвер версии 2 I2C для операций последовательного ввода-вывода Intel(R)
+DISPLAY_NAME: Драйвер версии 2 интерфейса ввода-вывода общего назначения для операций последовательного ввода-вывода Intel(R)
+DISPLAY_NAME: Драйвер версии 2 интерфейса ввода-вывода общего назначения для операций последовательного ввода-вывода Intel(R)
+DISPLAY_NAME: Драйвер версии 2 интерфейса ввода-вывода общего назначения для операций последовательного ввода-вывода Intel(R)
+DISPLAY_NAME: Драйвер версии 2 интерфейса ввода-вывода общего назначения для операций последовательного ввода-вывода Intel(R)
+DISPLAY_NAME: Драйвер батареи ИБП HID
+DISPLAY_NAME: Драйвер асинхронного носителя RAS
+DISPLAY_NAME: Драйвер адаптера минипорта для туннеля (Майкрософт)
+DISPLAY_NAME: Драйвер агрегатора процессора ACPI
+DISPLAY_NAME: Драйвер WinUsb
+DISPLAY_NAME: Драйвер WinSock IFS
+DISPLAY_NAME: Драйвер USB-устройства SCSI (UAS)
+DISPLAY_NAME: Драйвер UMPass Microsoft
+DISPLAY_NAME: Драйвер RAID-контроллера запоминающего устройства VIA StorX для Windows
+DISPLAY_NAME: Драйвер QWAVE
+DISPLAY_NAME: Драйвер NAT Windows
+DISPLAY_NAME: Драйвер Microsoft шины памяти класса хранилища
+DISPLAY_NAME: Драйвер iScsiPort
+DISPLAY_NAME: Драйвер IPv6 ARP для удаленного доступа
+DISPLAY_NAME: Драйвер IP-фильтр MA-USB
+DISPLAY_NAME: Драйвер Intel(R) Serial IO I2C Controller
+DISPLAY_NAME: Драйвер Intel процессора
+DISPLAY_NAME: Драйвер AppID
+DISPLAY_NAME: Драйвер ACPI Wake Alarm
+DISPLAY_NAME: Драйвер-фильтр класса USB-концентратора удаленного рабочего стола
+DISPLAY_NAME: Драйвер-фильтр HID XINPUT
+DISPLAY_NAME: Доверенные аудиодрайверы Майкрософт
+DISPLAY_NAME: Дисковод большой емкости
+DISPLAY_NAME: Виртуальная шина PCI Microsoft Hyper-V
+DISPLAY_NAME: Аудио драйвер USB (WDM)
+DISPLAY_NAME: Адаптер QLogic 10 Gigabit Ethernet VBD
+DISPLAY_NAME: WUDFWpdMtp
+DISPLAY_NAME: WPD Upper Class Filter Driver
+DISPLAY_NAME: Windows RAM Disk Driver
+DISPLAY_NAME: Windows Driver Foundation - User-mode Driver Framework Reflector
+DISPLAY_NAME: Windows Container Name Virtualization
+DISPLAY_NAME: WIMMount
+DISPLAY_NAME: WdmCompanionFilter
+DISPLAY_NAME: Wacom - драйвер пера последовательного порта
+DISPLAY_NAME: vsmraid
+DISPLAY_NAME: VMBusHID
+DISPLAY_NAME: VirtualRender
+DISPLAY_NAME: vhdmp
+DISPLAY_NAME: User Mode Driver Frameworks Platform Driver
+DISPLAY_NAME: USB Role-Switch Support Library
+DISPLAY_NAME: USB Function Class Extension
+DISPLAY_NAME: USB Device Emulation Support Library
+DISPLAY_NAME: USB Connector Manager KMDF Class Extension
+DISPLAY_NAME: USB-котроллер Synopsys
+DISPLAY_NAME: USB-контроллер Chipidea
+DISPLAY_NAME: udfs
+DISPLAY_NAME: UCM-UCSI KMDF Class Extension
+DISPLAY_NAME: UCM-TCPCI KMDF Class Extension
+DISPLAY_NAME: Synth3dVsc
+DISPLAY_NAME: storvsc
+DISPLAY_NAME: stexstor
+DISPLAY_NAME: Space Parser
+DISPLAY_NAME: SmartSAMD
+DISPLAY_NAME: SiSRaid4
+DISPLAY_NAME: SiSRaid2
+DISPLAY_NAME: Serial UART Support Library
+DISPLAY_NAME: sdbus
+DISPLAY_NAME: SBP-2 драйвер шины транспорт/протокол
+DISPLAY_NAME: s3cap
+DISPLAY_NAME: Remote Desktop Video Miniport Driver
+DISPLAY_NAME: Remote Access Auto Connection Driver
+DISPLAY_NAME: ReFSv1
+DISPLAY_NAME: ReFS
+DISPLAY_NAME: RAID-контроллер SATA для набора микросхем Intel
+DISPLAY_NAME: RAID-контроллер Intel для Windows 7
+DISPLAY_NAME: portcfg
+DISPLAY_NAME: percsas3i
+DISPLAY_NAME: percsas2i
+DISPLAY_NAME: pcmcia
+DISPLAY_NAME: pciide
+DISPLAY_NAME: Pass-through HID to KMDF Filter Driver
+DISPLAY_NAME: Packet Monitor Driver
+DISPLAY_NAME: nvstor
+DISPLAY_NAME: nvraid
+DISPLAY_NAME: Network Adapter Wdf Class Extension Library
+DISPLAY_NAME: netvsc
+DISPLAY_NAME: NDKPing Driver
+DISPLAY_NAME: mvumis
+DISPLAY_NAME: MsRPC
+DISPLAY_NAME: Modem
+DISPLAY_NAME: Microsoft Remote Desktop Input Driver
+DISPLAY_NAME: Microsoft Input Configuration Driver
+DISPLAY_NAME: Microsoft Infrared HID драйвер
+DISPLAY_NAME: Microsoft Hardware Notifications Class Extension Driver
+DISPLAY_NAME: Microsoft Hardware Error Device Driver
+DISPLAY_NAME: Microsoft Bluetooth HID минипорт
+DISPLAY_NAME: Microsoft Bluetooth A2dp driver
+DISPLAY_NAME: Mellanox InfiniBand Bus/AL (драйвер фильтра)
+DISPLAY_NAME: megasr
+DISPLAY_NAME: megasas35i
+DISPLAY_NAME: megasas2i
+DISPLAY_NAME: megasas
+DISPLAY_NAME: MBB Network Adapter Class Extension
+DISPLAY_NAME: MAC-мост (Майкрософт)
+DISPLAY_NAME: LSI_SSS
+DISPLAY_NAME: LSI_SAS3i
+DISPLAY_NAME: LSI_SAS2i
+DISPLAY_NAME: LSI_SAS
+DISPLAY_NAME: ItSas35i
+DISPLAY_NAME: isapnp
+DISPLAY_NAME: IPT
+DISPLAY_NAME: IPMIDRV
+DISPLAY_NAME: IP Network Address Translator
+DISPLAY_NAME: intelide
+DISPLAY_NAME: Intel(R) Serial IO I2C Host Controller
+DISPLAY_NAME: Hypervisor/Virtual Machine Support Driver
+DISPLAY_NAME: HyperVideo
+DISPLAY_NAME: hyperkbd
+DISPLAY_NAME: hvcrash
+DISPLAY_NAME: HpSAMD
+DISPLAY_NAME: Holographic Spatial Graph Filter
+DISPLAY_NAME: Hardware Policy Driver
+DISPLAY_NAME: Filetrace
+DISPLAY_NAME: File System Dependency Minifilter
+DISPLAY_NAME: exFAT File System Driver
+DISPLAY_NAME: eHome инфракрасный ресивер (USBCIR)
+DISPLAY_NAME: dmvsc
+DISPLAY_NAME: Desktop Activity Moderator Driver
+DISPLAY_NAME: CNG Hardware Assist algorithm provider
+DISPLAY_NAME: cht4iscsi
+DISPLAY_NAME: CD/DVD File System Reader
+DISPLAY_NAME: bcmfn2 Service
+DISPLAY_NAME: amdxata
+DISPLAY_NAME: amdsbs
+DISPLAY_NAME: amdsata
+DISPLAY_NAME: AMD K8 драйвер процессора
+DISPLAY_NAME: ADP80XX
+DISPLAY_NAME: Adaptec SAS/SATA-II RAID - драйвер минипорта Storport
+DISPLAY_NAME: Acx01000
+DISPLAY_NAME: 3ware
+DISPLAY_NAME: 1394 OHCI-совместимый хост-контроллер
+DISPLAY_NAME: @todo.dll,-100;Microsoft IPv6 Protocol Driver
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 2  FILE_SYSTEM_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Тип                : 1  KERNEL_DRIVER  
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Состояние          : 4  RUNNING 
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Ожидание           : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Контрольная_точка  : 0x0
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_службы  : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        Код_выхода_Win32   : 0  (0x0)
+        WIN32_EXIT_CODE    : 31  (0x1f)
+        WIN32_EXIT_CODE    : 31  (0x1f)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WIN32_EXIT_CODE    : 1077  (0x435)
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        WAIT_HINT          : 0x0
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 2  FILE_SYSTEM_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        TYPE               : 1  KERNEL_DRIVER  
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        STATE              : 1  STOPPED 
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        SERVICE_EXIT_CODE  : 0  (0x0)
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+        CHECKPOINT         : 0x0
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+                                (STOPPABLE, NOT_PAUSABLE, IGNORES_SHUTDOWN)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

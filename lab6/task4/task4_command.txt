@@ -1,0 +1,3 @@
+sc query type=driver state=all | find "Выводимое" | awk -F: "{print $2}" > buffer.txt
+sort /R < buffer.txt > answer.txt
+rm buffer.txt
